@@ -12,5 +12,8 @@ Assumes that a given stock history of returns is a multivariate gaussian distrib
 Note that real stocks follow a more log-nromal distribution, and variance is not a good measure of risk tolerance. People often use modified versions of MPT for real investing, although
 it can be hard to find methods more effective and simplistic as this one.
 
+![](https://github.com/N-Sand/ModernPortfolioTheory/blob/main/returns_example.png)
+![](https://github.com/N-Sand/ModernPortfolioTheory/blob/main/allocations.gif)
+
 MPT is based upon the following paper:
 Markowitz, Harry. “Portfolio Selection.” The Journal of Finance, vol. 7, no. 1, 1952, pp. 77–91. JSTOR, https://doi.org/10.2307/2975974. Accessed 19 Oct. 2023.
